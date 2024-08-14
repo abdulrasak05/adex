@@ -1,0 +1,176 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.gen{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    background-color: aliceblue;
+}
+.gen button{
+    width: 60px;
+    height: 20px;
+    border: none;
+}
+.container{
+    display: flex;
+    gap: 20px;
+}
+.two{
+    display: flex;
+    justify-content: space-between;
+    gap :40px;
+}
+.three button{
+    background-color: green;
+    color: white;
+    border: none;
+}
+.four{
+    background-color: aliceblue;
+    position: relative;
+    justify-content: space-between;
+    text-align: left;
+    padding: 50px;
+    width: 90%;
+    
+}
+.five{
+    position: absolute;
+    left: 50px;
+    bottom: 30px;
+    text-align: left;
+}
+.six{
+    text-align: right;
+    position: absolute;
+    right: 100px;
+    top: 0px;
+}
+.four button{
+    color: white;
+    background-color: green;
+    width: 70px;
+    height: 25px;
+    border: none;
+}
+.adex{
+    color: green;
+}
+.dot{
+    position: absolute;
+    bottom: 5px;
+    left: 500px;
+}
+.seven{
+    text-align: center;
+}
+.eight{
+    text-align: center;
+    gap: 150px;
+    display: flex;
+    
+}
+.nine{
+    text-align: center;
+}
+.ten{
+    display: flex;
+    text-align: center;
+    justify-items: space-between;
+    gap: 400px;
+    margin: 40PX;
+}
+.eleven{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+
+}
+.twelve{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.thirteen{
+    display: flex;
+}
+.fourteen{
+    justify-items: left;
+    padding: 20px;
+    
+}
+.fivteen{
+    justify-content: right;
+    padding: 80px;
+}
+.fivteen button{
+    background-color: green;
+ color: white;
+ border: none;
+ border-radius: 1px;
+ width: 90px;
+ height: 30px;
+}
+.sixteen{
+    background-color:aliceblue;
+    position: relative;
+    
+}
+.seventeen{
+    position: absolute;
+    right: 80px;
+    top: 10px;
+}
+.sixteen h2{
+    padding: 5px;
+    left: 40px;
+    padding: 10px;
+
+}
+.twenty{
+    background-color:aliceblue;
+    position: relative;
+}
+.twentyone{
+    display: flex;
+}
+.twentytwo{
+    display: flex;
+    position: absolute;
+    left: 250px;
+    top: 15px;
+} 
+.logoo{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    align-items: center;
+}
+.yes{
+    background-color: white;
+}
+.yes h3{
+    text-align: center;
+}
+.yes p{
+    text-align: center;
+}
+.in{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    margin: 0px;
+}
+.to{
+    text-align: center;
+}
+.to button{
+   background-color: green;
+   border: none;
+}
+.be{
+    background-color: black;
+    height: 150px;
+}
